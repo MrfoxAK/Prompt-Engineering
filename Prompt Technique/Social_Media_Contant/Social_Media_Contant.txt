@@ -1,0 +1,1 @@
+Act as if you're a social media expert. Give me a 10 tweet thread about [insert topic here]. The thread should be optimized for virality and contain hashtags and emoticons. Each tweet should not exceed 280 characters in length.
